@@ -1,4 +1,4 @@
-# Hello! I'm [Your Name] 👋
+# Hello! I'm oshico 👋
 
 Im an informatic engineer student that is working on the digital BISO.
 
