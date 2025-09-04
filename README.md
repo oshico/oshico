@@ -28,7 +28,7 @@ Passionate about software development, I strive to write **clean, well-structure
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oshico&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oshico&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oshico&layout=compact&theme=radical&hide=jupyter%20notebook)
 
 ## 🌐 Connect with Me
 
