@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="470" viewBox="0 0 840 470" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Menlo,Consolas,monospace" font-size="13px">
+<style>
+  .ln{opacity:0;animation:in .35s ease-out forwards}
+  .ch{opacity:0;animation:pop .01s steps(1) forwards}
+  .pb{opacity:0;transform-origin:center;animation:in .3s ease-out forwards}
+  .glow{text-shadow:0 0 6px rgba(203,166,247,.55)}
+  .bglow{text-shadow:0 0 6px rgba(137,180,250,.5)}
+  @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  @keyframes pop{to{opacity:1}}
+  @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+  .cur{animation:blink 1.1s steps(1) infinite}
+</style>
+<rect width="840" height="470" rx="12" fill="#11111b"/>
+<rect x="3" y="3" width="834" height="464" rx="10" fill="#1e1e2e" stroke="#45475a" stroke-width="1.5"/>
+<rect x="3" y="3" width="834" height="34" rx="10" fill="#181825"/>
+<rect x="3" y="27" width="834" height="10" fill="#181825"/>
+<circle cx="26" cy="20" r="5.5" fill="#f38ba8"/>
+<circle cx="46" cy="20" r="5.5" fill="#f9e2af"/>
+<circle cx="66" cy="20" r="5.5" fill="#a6e3a1"/>
+<text x="420.0" y="24" text-anchor="middle" fill="#a6adc8" font-size="11.5px">oshico@arch: ~</text>
+<text x="30" y="62" class="glow"><tspan fill="#a6e3a1" font-weight="bold">❯ </tspan></text>
+<text x="45.8" y="62" fill="#cdd6f4" class="ch" style="animation-delay:0.50s">f</text>
+<text x="53.7" y="62" fill="#cdd6f4" class="ch" style="animation-delay:0.59s">a</text>
+<text x="61.6" y="62" fill="#cdd6f4" class="ch" style="animation-delay:0.68s">s</text>
+<text x="69.5" y="62" fill="#cdd6f4" class="ch" style="animation-delay:0.77s">t</text>
+<text x="77.4" y="62" fill="#cdd6f4" class="ch" style="animation-delay:0.86s">f</text>
+<text x="85.3" y="62" fill="#cdd6f4" class="ch" style="animation-delay:0.95s">e</text>
+<text x="93.2" y="62" fill="#cdd6f4" class="ch" style="animation-delay:1.04s">t</text>
+<text x="101.1" y="62" fill="#cdd6f4" class="ch" style="animation-delay:1.13s">c</text>
+<text x="109.0" y="62" fill="#cdd6f4" class="ch" style="animation-delay:1.22s">h</text>
+<rect x="46" y="51" width="8" height="14" fill="#cba6f7" opacity="0"><animate attributeName="opacity" values="0;1;1;0;1;1;0" keyTimes="0;0.001;0.3;0.35;0.65;0.7;1" dur="1.56s" begin="0s" fill="freeze"/><animate attributeName="x" values="46;117" calcMode="discrete" dur="0.81s" begin="0.5s" fill="freeze"/></rect>
+<text x="30" y="92" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:1.56s">                  -`</text>
+<text x="30" y="109" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:1.60s">                 .o+`</text>
+<text x="30" y="126" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:1.65s">                `ooo/</text>
+<text x="30" y="143" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:1.70s">               `+oooo:</text>
+<text x="30" y="160" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:1.74s">              `+oooooo:</text>
+<text x="30" y="177" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:1.79s">              -+oooooo+:</text>
+<text x="30" y="194" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:1.83s">            `/:-:++oooo+:</text>
+<text x="30" y="211" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:1.88s">           `/++++/+++++++:</text>
+<text x="30" y="228" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:1.92s">          `/++++++++++++++:</text>
+<text x="30" y="245" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:1.97s">         `/+++ooooooooooooo/`</text>
+<text x="30" y="262" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:2.01s">        ./ooosssso++osssssso+`</text>
+<text x="30" y="279" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:2.06s">       .oossssso-````/ossssss+`</text>
+<text x="30" y="296" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:2.10s">      -osssssso.      :ssssssso.</text>
+<text x="30" y="313" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:2.15s">     :osssssss/        osssso+++.</text>
+<text x="30" y="330" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:2.19s">    /ossssssss/        +ssssooo/-</text>
+<text x="30" y="347" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:2.23s">  `/ossssso+/:-        -:/+osssso+-</text>
+<text x="30" y="364" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:2.28s"> `+sso+:-`                 `.-/+oso:</text>
+<text x="30" y="381" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:2.33s">`++:.                           `-/+/</text>
+<text x="30" y="398" xml:space="preserve" fill="#89b4fa" class="ln bglow" style="animation-delay:2.37s">.`                                 `/</text>
+<text x="356" y="92" class="ln glow" style="animation-delay:1.66s"><tspan fill="#cba6f7" font-weight="bold">oshico</tspan><tspan fill="#cdd6f4">@</tspan><tspan fill="#cba6f7" font-weight="bold">arch</tspan></text>
+<text x="356" y="109" fill="#6c7086" class="ln" style="animation-delay:1.75s">-----------</text>
+<text x="356" y="126" class="ln" style="animation-delay:1.84s"><tspan fill="#89b4fa" font-weight="bold">OS</tspan><tspan fill="#cdd6f4">: Arch Linux x86_64</tspan></text>
+<text x="356" y="143" class="ln" style="animation-delay:1.93s"><tspan fill="#89b4fa" font-weight="bold">Host</tspan><tspan fill="#cdd6f4">: Portugal</tspan></text>
+<text x="356" y="160" class="ln" style="animation-delay:2.02s"><tspan fill="#89b4fa" font-weight="bold">Kernel</tspan><tspan fill="#cdd6f4">: informatics-engineering 6.22-MSc</tspan></text>
+<text x="356" y="177" class="ln" style="animation-delay:2.11s"><tspan fill="#89b4fa" font-weight="bold">Uptime</tspan><tspan fill="#cdd6f4">: 22 years</tspan></text>
+<text x="356" y="194" class="ln" style="animation-delay:2.20s"><tspan fill="#89b4fa" font-weight="bold">Shell</tspan><tspan fill="#cdd6f4">: bash</tspan></text>
+<text x="356" y="211" class="ln" style="animation-delay:2.29s"><tspan fill="#89b4fa" font-weight="bold">DE</tspan><tspan fill="#cdd6f4">: Linux (daily driver)</tspan></text>
+<text x="356" y="228" class="ln" style="animation-delay:2.38s"><tspan fill="#89b4fa" font-weight="bold">Packages</tspan><tspan fill="#cdd6f4">: clean-code, docs, open-source (AUR)</tspan></text>
+<text x="356" y="245" class="ln" style="animation-delay:2.47s"><tspan fill="#cba6f7" font-weight="bold">Languages</tspan><tspan fill="#cdd6f4">: C C++ Rust Go Zig Java Kotlin Python</tspan></text>
+<text x="356" y="262" class="ln" style="animation-delay:2.56s"><tspan fill="#cba6f7" font-weight="bold">Web</tspan><tspan fill="#cdd6f4">: TypeScript PHP React Spring Laravel</tspan></text>
+<text x="356" y="279" class="ln" style="animation-delay:2.65s"><tspan fill="#cba6f7" font-weight="bold">Databases</tspan><tspan fill="#cdd6f4">: PostgreSQL MongoDB SQL-Server</tspan></text>
+<text x="356" y="296" class="ln" style="animation-delay:2.74s"><tspan fill="#cba6f7" font-weight="bold">Tools</tspan><tspan fill="#cdd6f4">: git docker cmake gh-actions postman</tspan></text>
+<text x="356" y="313" class="ln" style="animation-delay:2.83s"><tspan fill="#a6e3a1" font-weight="bold">Now</tspan><tspan fill="#cdd6f4">: MSc + building reliable software</tspan></text>
+<rect x="356" y="322" width="26" height="12" fill="#45475a" class="pb" style="animation-delay:3.12s"/>
+<rect x="382" y="322" width="26" height="12" fill="#f38ba8" class="pb" style="animation-delay:3.17s"/>
+<rect x="408" y="322" width="26" height="12" fill="#a6e3a1" class="pb" style="animation-delay:3.22s"/>
+<rect x="434" y="322" width="26" height="12" fill="#f9e2af" class="pb" style="animation-delay:3.27s"/>
+<rect x="460" y="322" width="26" height="12" fill="#89b4fa" class="pb" style="animation-delay:3.32s"/>
+<rect x="486" y="322" width="26" height="12" fill="#cba6f7" class="pb" style="animation-delay:3.37s"/>
+<rect x="512" y="322" width="26" height="12" fill="#94e2d5" class="pb" style="animation-delay:3.42s"/>
+<rect x="538" y="322" width="26" height="12" fill="#cdd6f4" class="pb" style="animation-delay:3.47s"/>
+<rect x="356" y="334" width="26" height="12" fill="#6c7086" class="pb" style="animation-delay:3.52s"/>
+<rect x="382" y="334" width="26" height="12" fill="#f5c2e7" class="pb" style="animation-delay:3.57s"/>
+<rect x="408" y="334" width="26" height="12" fill="#94e2d5" class="pb" style="animation-delay:3.62s"/>
+<rect x="434" y="334" width="26" height="12" fill="#fab387" class="pb" style="animation-delay:3.67s"/>
+<rect x="460" y="334" width="26" height="12" fill="#74c7ec" class="pb" style="animation-delay:3.72s"/>
+<rect x="486" y="334" width="26" height="12" fill="#b4befe" class="pb" style="animation-delay:3.77s"/>
+<rect x="512" y="334" width="26" height="12" fill="#89dceb" class="pb" style="animation-delay:3.82s"/>
+<rect x="538" y="334" width="26" height="12" fill="#a6adc8" class="pb" style="animation-delay:3.87s"/>
+<g class="ln" style="animation-delay:4.02s"><text x="30" y="434" class="glow"><tspan fill="#a6e3a1" font-weight="bold">❯ </tspan><tspan fill="#a6adc8">./hire_me --clean-code </tspan><tspan fill="#cba6f7" class="cur">█</tspan></text></g>
+</svg>
